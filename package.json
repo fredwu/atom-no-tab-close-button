@@ -1,16 +1,16 @@
 {
-  "name": "atom-no-tab-close-button",
+  "name": "atom-no-tab-close-icon",
   "author": {
-    "name": "Ben Stanley"
+    "name": "Fred Wu"
   },
-  "version": "1.0.0",
-  "description": "Removes the close buttons from tabs (you can still close tabs with CMD+W or by clicking tab with Mouse3 button)",
+  "version": "0.0.0",
+  "description": "Removes the close icon on tabs, no more misclicks!",
   "keywords": [
     "tabs",
     "close",
     "hide"
   ],
-  "repository": "https://github.com/benstanley/atom-no-tab-close-button",
+  "repository": "https://github.com/fredwu/atom-no-tab-close-icon",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
